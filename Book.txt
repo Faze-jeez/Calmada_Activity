@@ -1,0 +1,3 @@
+Fiction,101,Noli Me Tangere,Jose Rizal,false
+Fantasy,102,Harry Potter,J.K. Rowling,false
+Fiction,103,The King in yellow,Robert Chambers,false
